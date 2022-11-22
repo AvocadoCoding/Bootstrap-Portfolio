@@ -22,6 +22,7 @@ total width and height*/
     box-sizing: border-box;
 }
 
+/*Styling used throught web page*/
 body {
   font-family: 'Muli', 'Helvetica', 'Arial', 'sans-serif';
 }
@@ -191,7 +192,7 @@ section h2, main h2 {
 /*Contact Section*/
 .contact-section {
     padding-top: 55px;
-    padding-bottom: 220px;
+    padding-bottom: 260px;
   }
   .contact-section .card {
     border: 0;
