@@ -5,7 +5,7 @@ body {
   height: 100%;
 }
 
-.test{
+/* .test{
     border-style: solid;
     border-color: red;
     border-width: 3px;
@@ -14,7 +14,7 @@ body {
     border-style: solid;
     border-color: blue;
     border-width: 3px;
-}
+} */
 
 /*For whole web page, default is to include padding and border in elements
 total width and height*/
@@ -40,15 +40,25 @@ h6 {
 p {
   font-size: 18px;
   line-height: 1.5;
-  margin-bottom: 20px;
+  margin: 10px;
+  padding: 5px;
+  margin-top: 0px;
+  border-style: solid;
+  border-color: #28827c;
+  border-width: 0px;
+  border-left-width: 3px;
+  border-right-width: 3px;
+  text-align: center;
 }
 
 section, main{
   padding: 25px;
 }
 
-section h2 {
-  font-size: 50px;
+section h2, main h2 {
+  color:#28827c;
+  font-size:30px;
+  text-align: center;
 }
 
 /* Navigation bar styles ============= */
@@ -62,14 +72,14 @@ section h2 {
 } 
 
 #mainNav .navbar-brand {
-  color: #fdcc52;
+  color: #eccf88;
   font-family: 'Catamaran', 'Helvetica', 'Arial', 'sans-serif';
   font-weight: 200;
   letter-spacing: 1px;
 }
 
 #mainNav .navbar-brand:hover, #mainNav .navbar-brand:focus {
-  color: #fcbd20;
+  color: #eccf88;
 }
 
 #mainNav .navbar-toggler {
@@ -86,7 +96,7 @@ section h2 {
 }
 
 #mainNav .navbar-nav > li > a.active {
-  color: #fdcc52 !important;
+  color: #eccf88 !important;
   background-color: transparent;
 }
 
@@ -101,7 +111,7 @@ section h2 {
 
 #mainNav .navbar-nav > li > a:hover,
 #mainNav .navbar-nav > li > a:focus:hover {
-  color: #fdcc52;
+  color: #eccf88;
 }
 
 /* Jumbotron  */
@@ -115,6 +125,7 @@ section h2 {
     align-items: center;
     justify-content: center;
     color: white;
+    margin-bottom: 0px;
     /* text-align: center; */
 }
   
@@ -147,22 +158,35 @@ section h2 {
     margin-bottom: 0px;
 }
 
+#AboutMe{
+    background-color: #c1b3b3; 
+    padding-top: 55px;
+    padding-bottom: 55px;
+}
+
 /* Work section*/
+
+#Work{
+    background-color: #eccf88;
+    padding-top: 55px;
+    padding-bottom: 55px;
+}
 
 .cardContainer {
     margin-bottom: 15px;
   }
-  .card {
+.card {
     margin: 0 auto;
-  }
-
-.workheading{
-    text-align: center;
+}
+.cardContainer p{
+    margin: 0px;
+    margin-bottom: 10px;
 }
 
 /*Contact Section*/
 .contact-section {
-    padding-top: 5rem;
+    padding-top: 55px;
+    padding-bottom: 220px;
   }
   .contact-section .card {
     border: 0;
