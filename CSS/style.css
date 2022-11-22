@@ -26,26 +26,6 @@ body {
   font-family: 'Muli', 'Helvetica', 'Arial', 'sans-serif';
 }
 
-/* a {
-  color: #fdcc52;
-  transition: all .35s;
-}
-
-a:hover, a:focus {
-  color: #fcbd20;
-}
-
-hr {
-  max-width: 100px;
-  margin: 25px auto 0;
-  border-width: 1px;
-  border-color: rgba(34, 34, 34, 0.1);
-}
-
-hr.light {
-  border-color: white;
-} */
-
 h1,
 h2,
 h3,
@@ -221,6 +201,5 @@ section h2 {
   .bg-grey {
     background-color: #c1b3b3 !important;
   }
-  /* .btn-primary{
-    background-color:#28827c;
-  } */
+
+  
