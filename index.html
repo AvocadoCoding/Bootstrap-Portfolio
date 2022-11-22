@@ -4,7 +4,7 @@
     <!--Required meta tags plus IE edge comaptibility meta tag-->
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
@@ -56,18 +56,72 @@
 
   <!-- Jumbotron -->
   <div class="jumbotron">
-    <div class="jumboCopy">
+    <div class="container-fluid hero">
         <figure class="MyPicture mx-auto d-block img-fluid"><img src="./images/HeadshotPicture.jpg" 
             alt="Headshot Picture of Christopher Gardner"></figure>
+        <hr class="my-4">
         <h2 class="display-4">Welcome to my Coding Portfolio!</h2>
     </div>
   </div>
   <!-- End jumbotron -->
-
-
   
+  <!--About me section-->
+  <!-- container-fluid
+  row
+  About me heading on first 6 columns, Skills heading on second 6 columns
+  row
+  container-fluid on first 6 columns, containing text about me 
+  container-fluid on second 6 columns, containing unordered list with Skills
+  should move into columns at smaller skill sizes -->
   
-
+  <!-- Work section-->
+  <div class="container-fluid work">
+    <div class="row workheading">
+        <div class="col-lg-3 col-md-4 col-sm-12"><h2>Project Work</h2></div>
+    </div>
+    <div class="row">
+      <div class="cardContainer col-lg-3 col-md-6 col-sm-12">
+        <div class="card" style="width: 18rem;">
+          <img src="..." class="card-img-top" alt="...">
+          <div class="card-body">
+            <h5 class="card-title">Card title</h5>
+            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+            <a href="#" class="btn btn-primary">Go somewhere</a>
+          </div>
+        </div>
+      </div>
+      <div class="cardContainer col-lg-3 col-md-6 col-sm-12">
+        <div class="card" style="width: 18rem;">
+          <img src="..." class="card-img-top" alt="...">
+          <div class="card-body">
+            <h5 class="card-title">Card title</h5>
+            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+            <a href="#" class="btn btn-primary">Go somewhere</a>
+          </div>
+        </div>
+      </div> 
+      <div class="cardContainer col-lg-3 col-md-6 col-sm-12">
+        <div class="card" style="width: 18rem;">
+          <img src="..." class="card-img-top" alt="...">
+          <div class="card-body">
+            <h5 class="card-title">Card title</h5>
+            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+            <a href="#" class="btn btn-primary">Go somewhere</a>
+          </div>
+        </div>
+      </div> 
+      <div class="cardContainer col-lg-3 col-md-6 col-sm-12">
+        <div class="card" style="width: 18rem;">
+          <img src="..." class="card-img-top" alt="...">
+          <div class="card-body">
+            <h5 class="card-title">Card title</h5>
+            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+            <a href="#" class="btn btn-primary">Go somewhere</a>
+          </div>
+        </div>
+      </div>  
+    </div>
+  </div>
 
 
  <!-- Optional JavaScript -->
