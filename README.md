@@ -12,6 +12,9 @@ I have also used semantic HTML, arranged the code semantically and included an '
 
 https://avocadocoding.github.io/Bootstrap-Portfolio/
 
+## GitHub Repository link: 
+
+https://github.com/AvocadoCoding/Bootstrap-Portfolio
 
 
 ## Screenshot images of Portfolio Web Page, at different screen widths:
