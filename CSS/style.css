@@ -184,7 +184,7 @@ section.download .badges .badge-link img {
     background-size: cover;
     background-repeat: no-repeat;
     height: calc(100vh - 25px);
-    margin-top: 50px;
+    margin-top: 55px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -215,16 +215,22 @@ section.download .badges .badge-link img {
     border-color: grey;
 }
 
+/* About me and skills section*/
+
+
 /* Work section*/
-.container{
+/* .container{
     display: flex;
     align-items: center;
     justify-content: center;
-}
+} */
 
-.cardContainer{
-    padding: 5%;
-}
+.cardContainer {
+    margin-bottom: 15px;
+  }
+  .card {
+    margin: 0 auto;
+  }
 
 .workheading{
     text-align: center;
