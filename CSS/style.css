@@ -183,6 +183,11 @@ section h2, main h2 {
     margin-bottom: 10px;
 }
 
+.card P{
+    border-right-width: 0px;
+    text-align: left;
+}
+
 /*Contact Section*/
 .contact-section {
     padding-top: 55px;
