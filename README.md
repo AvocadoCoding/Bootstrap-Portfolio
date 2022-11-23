@@ -17,13 +17,13 @@ https://avocadocoding.github.io/Bootstrap-Portfolio/
 https://github.com/AvocadoCoding/Bootstrap-Portfolio
 
 
-## Screenshot images of Portfolio Web Page, at different screen widths:
+## Screenshot images of Portfolio Web Page:
 
-[Screenshot of first part of Portfolio Web Page, Jumbotron section](./Images/FirstPartofWebpage-Jumbotron.png)
+![Screenshot of first part of Portfolio Web Page, Jumbotron section](./Images/FirstPartofWebpage-Jumbotron.png)
 
-[Screenshot of second part of Portfolio Web Page, About Me and Skills section](./Images/SecondPartofWebpage-AboutMe.png)
+![Screenshot of second part of Portfolio Web Page, About Me and Skills section](./Images/SecondPartofWebpage-AboutMe.png)
 
-[Screenshot of third part of Portfolio Web Page, Work section](./Images/FourthPartofWebpage-ContactSectionFooter.png)
+![Screenshot of third part of Portfolio Web Page, Work section](./Images/FourthPartofWebpage-ContactSectionFooter.png)
 
-[Screenshot of fourth part of Portfolio Web Page, Contact footer section](./Images/FourthPartofWebpage-ContactSectionFooter.png)
+![Screenshot of fourth part of Portfolio Web Page, Contact footer section](./Images/FourthPartofWebpage-ContactSectionFooter.png)
 
