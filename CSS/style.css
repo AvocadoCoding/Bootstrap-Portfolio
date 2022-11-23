@@ -104,7 +104,7 @@ section h2, main h2 {
 
 /* Jumbotron  */
 .jumbotron {
-    background-image: url(../images/Aurora.jpg);
+    background-image: url(../Images/Aurora.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     height: 500px;
