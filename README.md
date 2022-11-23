@@ -19,11 +19,11 @@ https://github.com/AvocadoCoding/Bootstrap-Portfolio
 
 ## Screenshot images of Portfolio Web Page:
 
-![Screenshot of first part of Portfolio Web Page, Jumbotron section](./Images/FirstPartofWebpage-Jumbotron.png)
+![image](https://user-images.githubusercontent.com/116954089/203638558-df2b0c45-1f17-4005-adc8-bc27d2d76aca.png)
 
-![Screenshot of second part of Portfolio Web Page, About Me and Skills section](./Images/SecondPartofWebpage-AboutMe.png)
+![image](https://user-images.githubusercontent.com/116954089/203638672-d1eb7d5c-befb-4eec-89c0-5ee67903d58d.png)
 
-![Screenshot of third part of Portfolio Web Page, Work section](./Images/FourthPartofWebpage-ContactSectionFooter.png)
+![image](https://user-images.githubusercontent.com/116954089/203638729-5c5af391-933f-4f4f-8eef-36932cf3acbc.png)
 
-![Screenshot of fourth part of Portfolio Web Page, Contact footer section](./Images/FourthPartofWebpage-ContactSectionFooter.png)
+![image](https://user-images.githubusercontent.com/116954089/203638760-9c34598d-4563-42f7-94f5-d7cb43347505.png)
 
